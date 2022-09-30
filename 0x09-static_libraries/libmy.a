@@ -1,0 +1,4 @@
+#!/bin/bash
+$ ar -cvq libmy.a lib1.o lib2.o
+$ ar -t libmy.a
+$ gcc -o p p.c libmy.a
