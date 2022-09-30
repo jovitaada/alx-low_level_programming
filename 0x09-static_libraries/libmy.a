@@ -1,3 +1,0 @@
-#!/bin/bash
-gcc -o p p.c libmy.a
-ar -t libmy.a
